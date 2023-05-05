@@ -41,4 +41,4 @@ If you'd like to contribute to the library, please open an issue or submit a pul
 
 ## License
 
-This library is licensed under the [GNU License](LICENSE).
+This library is licensed under the [GNU License](LICENSE.txt).
