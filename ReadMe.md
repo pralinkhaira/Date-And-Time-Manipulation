@@ -7,7 +7,7 @@ This library provides a set of utility functions for working with dates and time
 You can clone the repository and install it. To do so, run the following commands:
 
 ```bash
-git clone https://github.com/BitH0xker/Date-And-Time-Manipulation.git
+git clone https://github.com/PralinKhaira/Date-And-Time-Manipulation.git
 cd Date-And-Time-Manipulation
 ```
 
